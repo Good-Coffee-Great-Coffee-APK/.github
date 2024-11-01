@@ -1,0 +1,12 @@
+{
+  "name": "Good Coffee, Great Coffee APK 0.1.2",
+  "version": "1.0.0",
+  "description": "Good Coffee, Great Coffee APK 0.1.2 Download For Android.",
+  "main": "index.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
